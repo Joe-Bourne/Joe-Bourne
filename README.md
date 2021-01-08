@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me
+Professional software developer based in the UK. 
+Sadly I cant share the cool stuff i do at work so instead you will only see my personal projects on here.
+
+Keep Learning 👋
+
+
 
 <!--
 **Joe-Bourne/Joe-Bourne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
