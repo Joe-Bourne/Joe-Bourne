@@ -1,9 +1,9 @@
 ### About Me
-Professional software developer based in the UK with over 20 years of experience — primarily building front office systems for financial institutions in London.
+Professional software developer based in the UK with many years of experience gained mostly from building srategic and RAD front office systems financial asset mananagement companies and hedgefunds. 
 
-Most of my career has been focused on rapid application development (RAD) — delivering practical solutions to business problems quickly and reliably. I work mainly with C#, SQL Server, Python, and VBA — often extending and integrating with Excel to support trading and operations teams.
+I work mainly with C#, SQL Server, and VBA - often extending and integrating with Excel to support trading and operations teams.
 
-Outside of work, I like to experiment with new technologies and build small tools for fun or to scratch an itch. I'm particularly interested in:
+Outside of work, I like to experiment with new technologies and build applications for fun or to scratch an itch. I'm particularly interested in:
 
 Cloudflare Workers & serverless development
 
