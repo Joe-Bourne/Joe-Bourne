@@ -1,8 +1,28 @@
 ### About Me
-Professional software developer based in the UK. 
-Sadly I cant share the cool stuff i do at work so instead you will only see my personal projects on here.
+Professional software developer based in the UK with over 20 years of experience — primarily building front office systems for financial institutions in London.
 
-Keep Learning 👋
+Most of my career has been focused on rapid application development (RAD) — delivering practical solutions to business problems quickly and reliably. I work mainly with C#, SQL Server, Python, and VBA — often extending and integrating with Excel to support trading and operations teams.
+
+Outside of work, I like to experiment with new technologies and build small tools for fun or to scratch an itch. I'm particularly interested in:
+
+Cloudflare Workers & serverless development
+
+.NET MAUI for cross-platform mobile apps
+
+Excel-DNA for extending Excel with C#
+
+SQLite for lightweight local data storage
+
+Clean, pragmatic code that solves real problems
+
+Sadly, most of the interesting things I build professionally stay behind closed doors — so what you see here is a collection of my personal projects, prototypes, and experiments.
+
+Still learning. Always building. Sharing what I can.
+
+Find me elsewhere:
+Stack Overflow: https://stackoverflow.com/users/403911/joe-bourne
+
+
 
 
 
