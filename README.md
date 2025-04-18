@@ -1,42 +1,40 @@
-### About Me
-Professional software developer based in the UK with many years of experience gained mostly from building srategic and RAD front office systems financial asset mananagement companies and hedgefunds. 
+### 👋 About Me
 
-I work mainly with C#, SQL Server, and VBA - often extending and integrating with Excel to support trading and operations teams.
+I'm a professional software developer based in the UK, with many years of experience primarily building strategic and RAD front-office systems for asset management companies and hedge funds.
 
-Outside of work, I like to experiment with new technologies and build applications for fun or to scratch an itch. I'm particularly interested in:
+I specialize in:
 
-Cloudflare Workers & serverless development
+- 💻 C# / .NET for high-performance backend and systems dev
+- 🗄️ SQL Server for reliable, robust data
+- 📊 VBA + Excel integration to support trading and ops teams
 
-.NET MAUI for cross-platform mobile apps
+---
 
-Excel-DNA for extending Excel with C#
+### 🛠️ What I’m Into
 
-SQLite for lightweight local data storage
+Outside of work, I love experimenting with new technologies and building apps just for fun (or to scratch a technical itch). I'm especially interested in:
 
-Clean, pragmatic code that solves real problems
+- ☁️ **Cloudflare Workers** & serverless development
+- 📱 **.NET MAUI** for cross-platform mobile apps
+- 🧩 **Excel-DNA** for extending Excel with C#
+- 🗃️ **SQLite** for lightweight local data storage
+- 🧼 Clean, pragmatic code that solves real problems
 
-Sadly, most of the interesting things I build professionally stay behind closed doors — so what you see here is a collection of my personal projects, prototypes, and experiments.
+---
 
-Still learning. Always building. Sharing what I can.
+### 🔒 What You’ll Find Here
 
-Find me elsewhere:
-Stack Overflow: https://stackoverflow.com/users/403911/joe-bourne
+Sadly, most of my work is behind closed doors — but this GitHub is where I share:
 
+- ✨ Personal projects
+- 🧪 Prototypes
+- 🧠 Experiments
+- 💡 Little tools that make life easier
 
+> Still learning. Always building. Sharing what I can.
 
+---
 
+### 🌐 Find Me Elsewhere
 
-<!--
-**Joe-Bourne/Joe-Bourne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 [Stack Overflow – Joe Bourne](https://stackoverflow.com/users/403911/joe-bourne)
