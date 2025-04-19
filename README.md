@@ -6,6 +6,7 @@ I specialize in:
 
 - 💻 C# / .NET for high-performance backend and systems dev
 - 🗄️ SQL Server for reliable, robust data
+- 🧩 **Excel-DNA** for extending Excel with C#
 - 📊 VBA + Excel integration to support trading and ops teams
 
 ---
@@ -16,7 +17,6 @@ Outside of work, I love experimenting with new technologies and building apps ju
 
 - ☁️ **Cloudflare Workers** & serverless development
 - 📱 **.NET MAUI** for cross-platform mobile apps
-- 🧩 **Excel-DNA** for extending Excel with C#
 - 🗃️ **SQLite** for lightweight local data storage
 - 🧼 Clean, pragmatic code that solves real problems
 
